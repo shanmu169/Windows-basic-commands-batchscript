@@ -54,7 +54,7 @@ Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 <img width="872" height="200" alt="image" src="https://github.com/user-attachments/assets/9c570964-1462-4375-8cfa-509dc874d848" />
-## Exercise 2: Advanced Batch Scripting
+### Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 ## OUTPUT
 <img width="882" height="106" alt="image" src="https://github.com/user-attachments/assets/8e0191de-dba9-498e-8f27-e6f2d7ce677e" />
