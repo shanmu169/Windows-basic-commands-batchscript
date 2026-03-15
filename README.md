@@ -22,7 +22,7 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
+<img width="961" height="187" alt="image" src="https://github.com/user-attachments/assets/6a329478-42d9-4f49-8896-944b4d12aace" />
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
