@@ -41,32 +41,23 @@ Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 <img width="992" height="139" alt="image" src="https://github.com/user-attachments/assets/c6105b44-5b1c-4532-be6b-f86359b1d5bd" />
-Remove the file hello1.txt
+Remove the file hello1.txt & List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-
-List out the file hello1.txt in the current directory
-
-## COMMAND AND OUTPUT
-
+<img width="876" height="236" alt="image" src="https://github.com/user-attachments/assets/24480c34-9f7e-4c78-9387-667db6bc4130" />
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-
+<img width="638" height="867" alt="image" src="https://github.com/user-attachments/assets/f4b5e375-69d7-4200-9c8c-7dd48f64ddde" />
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-
+<img width="872" height="200" alt="image" src="https://github.com/user-attachments/assets/9c570964-1462-4375-8cfa-509dc874d848" />
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
-
-
-
-
-
 ## OUTPUT
-
+<img width="882" height="106" alt="image" src="https://github.com/user-attachments/assets/8e0191de-dba9-498e-8f27-e6f2d7ce677e" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -81,18 +72,12 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
-
+<img width="888" height="267" alt="image" src="https://github.com/user-attachments/assets/f85fe6e3-0071-42cd-a1c6-7d3b56dd3220" />
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-
-
-
 ## OUTPUT
-
-
-
+<img width="883" height="201" alt="image" src="https://github.com/user-attachments/assets/f8fda907-2d6f-48d2-8124-302485af5941" />
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -103,7 +88,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+<img width="853" height="89" alt="image" src="https://github.com/user-attachments/assets/52537d96-10d4-463e-8317-3a4ab504a631" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -113,7 +98,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-
+<img width="829" height="404" alt="image" src="https://github.com/user-attachments/assets/1cda8255-1162-4ae3-b2b2-6e3c3a265922" />
 
 
 # RESULT:
